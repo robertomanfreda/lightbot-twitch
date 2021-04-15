@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/robertomanfreda/lightbot-twitch#readme",
   "dependencies": {
-    "dmx": "^0.2.5"
+    "dmx": "^0.2.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "tmi.js": "^1.2.1"
   }
 }
