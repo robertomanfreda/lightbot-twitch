@@ -1,0 +1,23 @@
+{
+  "name": "lightbot-twitch",
+  "version": "1.0.0",
+  "description": "A NodeJS bot capable to get messages from twitch and to change colors of a led strip into my room",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertomanfreda/lightbot-twitch.git"
+  },
+  "keywords": [],
+  "author": "cyber_thread",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertomanfreda/lightbot-twitch/issues"
+  },
+  "homepage": "https://github.com/robertomanfreda/lightbot-twitch#readme",
+  "dependencies": {
+    "dmx": "^0.2.5"
+  }
+}
